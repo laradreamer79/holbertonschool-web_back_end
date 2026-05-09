@@ -40,7 +40,7 @@ By the end of this project, you should be able to explain:
 
 # Tasks
 
-## Task 0: Simple Helper Function
+### Task 0: Simple Helper Function
 
 **File:** `0-simple_helper_function.py`
 
@@ -107,13 +107,14 @@ Output:
   ["record 9"],
   ["record 10"]
 ]
+```
 
 ### Concepts Covered
 - Dataset slicing
 - Assertions
 - Caching data in memory
 - Server-side pagination
-```
+
 
 ### Task 2: Hypermedia Pagination
 
